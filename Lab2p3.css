@@ -1,11 +1,11 @@
 <style>
-table {
+h1 {
 font-family: arial, sans-serif;
 border-collapse: collapse;
 width: 100%;
 }
 
-td, th {
+h2{
 border: 1px solid #dddddd;
 text-align: left;
 padding: 8px;
